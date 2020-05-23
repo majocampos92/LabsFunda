@@ -23,4 +23,5 @@ int main()
     cout<<"Producto: "<<nombre<<" Precio $ "<<precio<<" Cantidad "<<cantidad<<" Saldo actual $ "<<totalRestante<<endl;
 
     return 0;
+    
 }

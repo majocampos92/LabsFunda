@@ -12,4 +12,5 @@ int main()
     cout<<"el promedio de las tres cantidades es: "<<total<<endl;
 
     return 0;
+    
 }
