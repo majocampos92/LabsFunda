@@ -36,7 +36,7 @@ void corto3(){
 
         }
     }     
-    
+
     cout<<"NUMERO MAGICO: "<<numeroMagico<<endl; //mensaje que muestra el numero magico
 
 }
